@@ -1,4 +1,3 @@
-REMOTE
 # mergendconflicts
 Git/GitHub 5
 Trying to solve conflicts
